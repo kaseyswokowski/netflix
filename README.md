@@ -1,5 +1,8 @@
 # NETFLIX CLONE :tv:
 
+## Live Link :fire:
+https://netflix-build-745d6.web.app/
+
 ## Features :fire:
 
 :tv: Navbar which change its color when scroll<br>
